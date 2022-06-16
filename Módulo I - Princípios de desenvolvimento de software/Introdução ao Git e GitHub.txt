@@ -1,0 +1,15 @@
+Git: Software de versionamento de código na máquina
+Git Bash: Terminal utilizado para comandos de versionamento (Repositório local)
+GitHub: Servidor de versionamento do repositório (Repositório remoto)
+
+Comandos importantes: 
+ - Git init: Inicia o repositório
+ - Git add: Move arquivos e dá início ao versionamento, podendo ser git add . (para todos os arquivos), git add * (arquivo untracked), git add nomeArquivo (arquivo específico).
+ - Git commit: Criar o commit (git commit -m "mensagem")
+ - Git push origin master/main: Para empurrar o commit para o servidor
+
+Conceitos importantes:
+ - Readme: Cria um arquivo como se fosse a página inicial do repositório.
+ - gitignore: arquivo que podemos colocar na criação do repositório quando estamos trabalhando com um projeto em uma determinada tecnologia para que ele faça com que o git ignore alguns arquivos build, que não são necessáriamente essenciais para o versionamento.
+ - Choose a license: Se você tiver alguma licença relacionada ao código que você está desenvolvendo, você pode escolher um conjunto de licenças possíveis.
+ - Chave SSH: Forma de estabelecer uma conexão segura e encriptada entre duas máquinas, no caso nossa máquina local e o servidor do gitHub.
