@@ -1,0 +1,22 @@
+#Termos-chave:
+
+ - Cash: Quando você acessa um site, ele deixa algumas coisas salvas no seu computador, para quando acessá-lo novamente ele não precisar ser carregado por inteiro.
+ - Crack: Uma forma de piratear softwares, você insere uma chave falsa nele para ter acesso irrestrito e ilimitado, é crime.
+ - HTML: Linguagem de marcação da internet, não é linguagem de programação.
+ - HTTP: Protocolo utilizado pela internet.
+ - Vírus: Software malicioso.
+ - Keyloger: espécie de vírus que fica capturando tudo que você digita no seu teclado.
+ - Phishing: Outra espécie de golpe, onde o golpista tem a intenção de roubar dados enganando a outra pessoa.
+ - Cookies: Pequenos registros da nossa atividade, que podem ser usados por outros sites.
+ - Firewall: Parede que impede acesso indevido no computador.
+ - Backbone: Espinha dorsal, tem poucas espalhadas pelo mundo, são estruturas que gerenciam o tráfego da internet, gerenciam as conexões, e delas saem várias ramificações que interligam outros backbones.
+ - Provedor de acesso: São as empresas que fornecem acesso aos backbones, normalmente empresas telefônicas, elas contratam e repassam ao usuário final. esses serviços podem ser: Dial-up(conexão discada), ADSL (banda larga), Fibra ótica (cabos sensíveis que permitem velocidades maiores), ra´dio (torres de comunicação de rádio, bem mais instável, satélite, móvel (torres próprias, as vezes satélites), P2P -peer to peer- (Comunicação direta entre dispositivos sem necessáriamente conexão de internet).
+ - DNS (Doamin Name Service): TRansforma o nome do site que colocamos na barra em número, que é chamado de IP (Internet Protocol)
+ - TCP/IP: Protocolos de comunicação de computadores em rede.
+ - Portas: Por onde os dados chegam e saem. Cada porta tem um número e recebem um tipo de dado (20: FTP; 22: SSH; 25: SMTP; 53: DNS; 80: HTTP; 443: HTTPS)
+ - Modem (Modulator demodulator): hardware que converte dados em um formato que possa ser transmitido e lido de um computador para o o outro.
+ - Roteador: Aparelho que distribui internet para um ou mais dispositivos em rede, pode também fazer comunicação entre redes. Hoje em dia são mais inteligentes e distribuem o que chega nele somente para "quem" pediu.
+ - Switch: Distribui internet para um ou mais dispositivos de forma inteligente.
+ - Bluetooth: Conexão ponto a ponto, independe de internet.
+ - Web-server: Servidor onde ficam guardados nossos dados.
+ - Stacks: Conjunto de softwares necessários e suficientes para executar um aplicativo/programa.
